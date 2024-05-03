@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif
+}
+
+.corpo{
+    margin: auto;
+    width: 70%;
+    height: 100%;
+    background-color: #a69f957e ;
+}
+
+header{
+    width: 100%;
+    background-color: #606B73;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#titulo{
+    font-size: 50px;
+    color: white;
+    padding: 10px;
+    width: 40%;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+
+.as{
+    background-color: #9CA5B1;
+    width: auto;
+    border-radius: 5px;
+}
+
+.as:hover{
+    background-color: #9ca5b1ab;
+    transition: 0.5s;
+    border-style: groove;
+    border-width: 0.1px;
+}
+
+
+.topicos{
+    color: white;
+    
+}
+
+.topicos p{
+    text-indent: 30px;
+    text-align: justify;
+}
