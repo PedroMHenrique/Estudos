@@ -1,0 +1,29 @@
+Livros de redes:
+Análise de tráfego em redes TCP/IP (João Eriberto)
+Redes de computadores (Nick Feamster)
+Redes de computadores e internet (James F. Kurose)
+
+Livros de hardware
+Hardware na prática (Robison Cris Brito)
+Hardware - O Guia definitivo (Carlos E. Morimoto)
+A arquitetura de hardware computacional (Irv Englander)
+
+Livros de sistemas operacionais
+Sistema operacionais de tempo real (Gustavo Weber)
+Descobrindo o Linux (João Eriberto)
+Sistema operacionais modernos (Andrew S. Tanenbaum)
+
+Livros de tecnologias web
+HTML e CSS: projete e construa websites (Jon Duckett)
+CSS grid layout: criando layouts CSS profissionais (Mauricio Samy)
+JavaScript: O guia definitivo (David Flanagan)
+
+Livros de Cyber segurança
+Criptografia e segurança de redes (William Stallings)
+Fundamentos de Segurança da informação (Jule HintzBergen)
+Cibersegurança para leigas (Joseph Steinberg)
+
+Sites de ctf
+CryptoHack
+Hack The Box
+TryHackMe
