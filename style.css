@@ -56,3 +56,15 @@ a{
     text-indent: 30px;
     text-align: justify;
 }
+.titulos{
+    padding-bottom: 18px;
+}
+.curses{
+    padding-top: 18px;
+}
+ul{
+    padding-left: 18px;
+}
+ol{
+    padding-left: 18px;
+}
