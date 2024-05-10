@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0px;
     font-family: sans-serif;
+
 }
 
 body{
@@ -33,7 +34,7 @@ header{
 }
 
 main a{
-    color: white;
+    color: rgb(226, 223, 223);
 }
 
 main a:visited{
@@ -62,8 +63,11 @@ a{
 
 h2{
     font-size: 30px;
+    background-color: #42081817;
 }
-
+h3{
+    padding: 10px 0px 10px 0px;
+}
 .as{
     background-color: #011C40;
     width: auto;
@@ -77,19 +81,28 @@ h2{
     border-width: 0.1px;
 }
 
-
 .topicos{
     color: white;
-    
+    font-size: 20px;
+
 }
 
-.topicos p{
-    text-indent: 30px;
-    text-align: justify;
+@media screen and (max-width: 1450px) {
+    .topicos {
+        font-size: 18px; /* Reduz o tamanho da fonte para telas menores */
+    }
 }
+ 
+@media screen and (max-width: 650px) {
+    .topicos {
+        font-size: 14px; /* Reduz o tamanho da fonte para telas menores */
+    }
+}
+
+
+
 .titulos{
-    padding-bottom: 18px;
-    padding-top: 18px;
+    margin: 10px 0px 10px 0px;
 }
 .curses{
     padding-top: 18px;
@@ -101,8 +114,9 @@ ol{
     padding-left: 18px;
 }
 li{
-    line-height: 23px;
+    line-height: 25px;
 }
+
 
 .lislib{
    margin-bottom: 10px; 
