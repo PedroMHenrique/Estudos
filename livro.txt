@@ -1,29 +1,40 @@
 Livros de redes:
-Análise de tráfego em redes TCP/IP (João Eriberto)
-Redes de computadores (Nick Feamster)
-Redes de computadores e internet (James F. Kurose)
+AnáliHardware na prática (Robison Cris Brito) se de tráfego em redes TCP/IP (João Eriberto) https://www.amazon.com.br/An%C3%A1lise-Tr%C3%A1fego-Redes-TCP-IP/dp/8575223755?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2VWMP4GK1G2B
+
+Redes de computadores (Nick Feamster) https://www.amazon.com.br/Redes-Computadores-Andrew-Tanenbaum/dp/8582605609/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ETYSR8UE4DQW&dib=eyJ2IjoiMSJ9.5s8ZwRuxTStNhqaJYVJDF9fCXDITTKp7Fwfns8UaPbX8aIPG55gl5b8S_M6H35Cm8tvic3KuNGzTDD0Nl3iLAVBmrK4RaFIPCaJ6hDxA0TEk8Jzwz0GY2EP0DqQvck-IpZpYq-LTMYktIgnF3L6ZJm8ChMVyvF4ocnQpYUPAdlRFRZttlNkAO5iF7iNopzbWoeN5khn-tSZLzFPfe8Z-_xd5KKNefjfkWzY_Ijc5g0c.tv7krS03DMyukutHKwc3Qz1azU0iTW0lJXVtW0rjqww&dib_tag=se&keywords=Redes+de+computadores+%28Nick+Feamster%29&qid=1715087086&s=books&sprefix=redes+de+computadores+nick+feamster+%2Cstripbooks%2C210&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74
+
+Redes de computadores e internet (James F. Kurose) https://www.amazon.com.br/Redes-computadores-Internet-James-Kurose/dp/8582605587/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2W0KOA8OAHZZI&dib=eyJ2IjoiMSJ9.p1cPn4crdGXt6LOfAPgXF2gEvy3FJ1Lo44q3OQExcQ5jcnHvDZFXNFpf3VKdOMopt3-9mrnEtCV0ctI_nKi1S6_zJ08V0luopS9IBLIUEGQ_839l2ZSyjMb1qJlp3KKrw6Uh1Ij7F8itlc6IfF0svdZMoLIE5gx9HJXa3ve6rkSuTqrCCB7RpMXgmMz5vn-FXCKyCSxKhetwskJrUvOnH6AcZPVTdhNYovsVR47kXaU.H0MYqkFVp_6_5cip1JObzqZlfTDX5O0baMG_torZihA&dib_tag=se&keywords=Redes+de+computadores+e+internet+%28James+F.+Kurose%29&qid=1715087111&s=books&sprefix=redes+de+computadores+e+internet+james+f.+kurose+%2Cstripbooks%2C183&sr=1-1&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d
 
 Livros de hardware
-Hardware na prática (Robison Cris Brito)
-Hardware - O Guia definitivo (Carlos E. Morimoto)
-A arquitetura de hardware computacional (Irv Englander)
+https://www.amazon.com.br/Hardware-Pr%C3%A1tica-Robison-Cris-Brito/dp/8539908921/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=232N0FG13O8WQ&dib=eyJ2IjoiMSJ9.KGRqG_ltYN7UWkS3n_ucmQ.2AB6y-KZEyxFpBOfFRamZmQcRexBblF9UYT6I4loQHM&dib_tag=se&keywords=Hardware+na+pr%C3%A1tica+%28Robison+Cris+Brito%29&qid=1715087126&s=books&sprefix=hardware+na+pr%C3%A1tica+robison+cris+brito+%2Cstripbooks%2C197&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74
+
+Hardware - O Guia definitivo (Carlos E. Morimoto) https://www.amazon.com.br/Hardware-Guia-Definitivo-Carlos-Morimoto/dp/8599593102/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2F8SBJWNF8PKF&dib=eyJ2IjoiMSJ9.AfcL7gHydykUcN8x36PfaW5JxV_0y7KHSUhz8GneuKYtWQJoZh4FNee2k0o8rLXva9bu8HuKrfCNnTqHHSbcrdxqPsIxwhzwu6Tx0MqXqz7Rcpnvstub4CzheVfZs8htkZVea8AACCsqhWXyAuUZ_jk9PkGBd5sCTfWFHggE00nyM2bJ1ZLuAMhdKSSjQ37Ucw4b97lF5jusrnVF29Vb0smwehvWDPBktg9HypJ9q4A.lTz6iwj7av46aqAbvwjcy2j1wbgPEF6EwQwZswc7I64&dib_tag=se&keywords=Hardware+-+O+Guia+definitivo+%28Carlos+E.+Morimoto%29&qid=1715087152&s=books&sprefix=hardware+-+o+guia+definitivo+carlos+e.+morimoto+%2Cstripbooks%2C180&sr=1-2
+
+A arquitetura de hardware computacional (Irv Englander) https://www.amazon.com.br/Arquitetura-Hardware-Computacional-Software-Comunica%C3%A7%C3%A3o/dp/8521617917/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2O1RXZMNQRRVS&dib=eyJ2IjoiMSJ9.xf-vzdE0tEGdTU4b1yhyXHLNt5EPgnNC3OzGVS7mX5k5Gbkr2UFeBKiGEIorsmbxbOLWDSz998CoYp0_Ltr1N15xndbGXE8i809DcUe9W6UAl9i72631obyIMu8Oc-brpWt6JNTi_T4B_DWiN3CANqfkKs0hosZRYCV51p6mkkOgRWrluuQy0b4Wfl1I4x8VcqQpb5Ey-bwJYGPfvUtmT-onZHYkGZUOSi_46tK9xOY.e2gY9SiBr147us5m4bUJsuGbFTz1PMuvEWTJG7UL3h8&dib_tag=se&keywords=A+arquitetura+de+hardware+computacional+%28Irv+Englander%29&qid=1715087187&s=books&sprefix=a+arquitetura+de+hardware+computacional+irv+englander+%2Cstripbooks%2C210&sr=1-1&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12
 
 Livros de sistemas operacionais
-Sistema operacionais de tempo real (Gustavo Weber)
-Descobrindo o Linux (João Eriberto)
-Sistema operacionais modernos (Andrew S. Tanenbaum)
+Linux eficiente na linha de comando (Daniel J. Barret) https://www.amazon.com.br/Linux-Eficiente-Linha-Comando-habilidades-ebook/dp/B0BDT8167C/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=36ZTUVSTHJGGO&dib=eyJ2IjoiMSJ9.gJUbAgKOmJiw0_g2D68HdTU2yLWWJNauIzrJnGxNv48kzO-WEAalh4eS6vezl_MCfQ3FIHwri-xL9R-o5lzZBya2GM9wlz5Z5dgcIJbXNLpiWYLkI4YG2VVbaca2Saa7T5ouPh_SZkUtZpEspOiw3JjDFfZVzbz4UMpriITwOawmhwSK1mbBm2hed21WPpN4KpENgX_VvyoutBKOl0XTRYd7UNK45BxoDPQ_WcAKKoY.7FL7YfsbTXX3mOOzyXVuoS4mhOIvWIY7fIVkC_PMCUQ&dib_tag=se&keywords=livros+de+linux&qid=1715087337&s=books&sprefix=livros+de+linu%2Cstripbooks%2C206&sr=1-2
+
+Descobrindo o Linux (João Eriberto) https://www.amazon.com.br/Descobrindo-Linux-Jo%C3%A3o-Eriberto-Filho/dp/8575222783/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3CL2ZT5OFCYQZ&dib=eyJ2IjoiMSJ9.JVJmVrSlxgK8HSME4QC8agoe_kl1nMQGY8AHfEHmxtm3CStuP87k0Zc3eLhgXouu.A9gqKhiuIwZATe2IIJrD-t40yuOFGgn5Hw88qh4u8pE&dib_tag=se&keywords=Descobrindo+o+Linux+%28Jo%C3%A3o+Eriberto%29&qid=1715087465&s=books&sprefix=descobrindo+o+linux+jo%C3%A3o+eriberto+%2Cstripbooks%2C195&sr=1-1
+
+Sistema operacionais modernos (Andrew S. Tanenbaum) https://www.amazon.com.br/Sistemas-operacionais-modernos-Andrew-Tanenbaum/dp/8543005671/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3SRFFEHT2Z6MB&dib=eyJ2IjoiMSJ9.Ky0U1XknsDRWem_NGDUuvPFZ8NyhrnhfLwHJorVF0Yvoofy0c0AVkxbgFp-2S1yOjkJkhU6J4q7TTYLu75M_6D1EwhoA70hN0WiAVP6Uzxf3rGYz66574t6_5wegmvj9nQYjuoHjXaYnVcTUkMkzi5x4kKGeJYjKN1uhdeUxuNWfUx6Oasb525y0OwDhORLkxFCcxuHkw1y1wSjnQwT9wD6Mqe4guxLFvahhQaivLAY.mEk9Y-qpFc7FoyJSUgUp6Tdr1FcN7-nHQLYMc3P_Fzk&dib_tag=se&keywords=Sistema+operacionais+modernos+%28Andrew+S.+Tanenbaum%29&qid=1715087493&s=books&sprefix=sistema+operacionais+modernos+andrew+s.+tanenbaum+%2Cstripbooks%2C183&sr=1-2&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678
 
 Livros de tecnologias web
-HTML e CSS: projete e construa websites (Jon Duckett)
-CSS grid layout: criando layouts CSS profissionais (Mauricio Samy)
-JavaScript: O guia definitivo (David Flanagan)
+HTML e CSS: projete e construa websites (Jon Duckett) https://www.amazon.com.br/HTML-CSS-projete-construa-Websites/dp/8576089394/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=31K880BHCTKGX&dib=eyJ2IjoiMSJ9.Cf7bik967g1I75fxNNPidRECJe-EP_2dpL18uE_XaOY_FfsoDiR3i00yuJDPpLdJOfB4Uj01JLLNJrDhR64vm5T1i2kkHHvvcf5AUeEnCUUbqw593gHRIsMF8ART5Su6fcPElenfwF_hiFqY5rIcNcdkx3xhUbjzICf-F-hueBmTndXVVQ-t59w3HpjBn-fWDD0RNei72MeEpA9lfba7AhQWkGGrtV9RZDgCGz7sFfE.gc66cxOAq1wUtoAnwtNdgOgHmWKdsi1zr4WQlUZ9e1Y&dib_tag=se&keywords=html+e+css%3A+projete+construa+websites+%28jon+duckett%29&qid=1715087518&s=books&sprefix=html+e+css+projete+e+construa+websites+jon+duckett+%2Cstripbooks%2C185&sr=1-1
+
+CSS grid layout: criando layouts CSS profissionais (Mauricio Samy) https://www.amazon.com.br/Grid-Layout-Criando-Layouts-Profissionais/dp/8575226320/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=8NQRLR2J2V6R&dib=eyJ2IjoiMSJ9.7WhpRrL3mlYbX2jq40Ho1Y7TVcwnT_FK232tyAcZaAfm7xNy-4mocr_ElqXwyNc9L6Z0bKBpRy6ivES6rH7pnu7kngWAWDGmDrzYmuP7A0uPxRzdoULToq0ID8A0Psc84X5Q0vbpfB-DvoLB37OQyrB7Ai9auKEJ9h55_ZhRW2oGr82OFUoOiGQLyLS7SFTUYu-PAdy-4fZZtWtOHUjh-FJZPF9hdHzqc1yWipR4bUU.SmUZun1qmtLjm1-ziMUoHLkp04o9iJaHqyyuiGwQNAQ&dib_tag=se&keywords=CSS+grid+layout%3A+criando+layouts+CSS+profissionais+%28Mauricio+Samy%29&qid=1715087531&s=books&sprefix=css+grid+layout+criando+layouts+css+profissionais+mauricio+samy+%2Cstripbooks%2C199&sr=1-1
+
+JavaScript: O guia definitivo (David Flanagan) https://www.amazon.com.br/JavaScript-Guia-Definitivo-David-Flanagan/dp/856583719X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3C9J4TZWL08CM&dib=eyJ2IjoiMSJ9.FgtyyGH5mPl22adVLtWhP6YImTzxEhzD6WBNOLSCLgBJn969O2vTmVXZD_qCP42_IU89ImyXKMeXNbpfnx_9FDwt3clYlDeZSE3fq3bNuVNnLaRdpIxW45o_V_Xi3DhrDmVJ9XdALzhJ9L55GnGfONlZL2PEpRlsZ3YrAjubt4yES6D-ekc57V5ySVplkELB8HIPuMlQmmb7nHHI3AC2aLmHf8XHWr9KzUF6q1TT8ZA.DrWCx0jrtnELQ8nq4UbRLlmykM5fXzMJfclh1wqYBa8&dib_tag=se&keywords=JavaScript%3A+O+guia+definitivo+%28David+Flanagan%29&qid=1715087558&s=books&sprefix=javascript+o+guia+definitivo+david+flanagan+%2Cstripbooks%2C195&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74
 
 Livros de Cyber segurança
-Criptografia e segurança de redes (William Stallings)
-Fundamentos de Segurança da informação (Jule HintzBergen)
-Cibersegurança para leigas (Joseph Steinberg)
+Criptografia e segurança de redes (William Stallings)  https://www.amazon.com.br/Criptografia-seguran%C3%A7a-redes-princ%C3%ADpios-pr%C3%A1ticas/dp/8543005892/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1N69Q8R71O8PB&dib=eyJ2IjoiMSJ9.eNQMzxaehNylJ0Kuyr2p7duKgoBRFffbmPlhNNcTHzfgUrPy24yvKY6nCl84wITja0MJC4ppq4CCQejsuW1oWhJzG_Wfgj-mojFu8ymsBhHa7QgjOmhrz7EJ6NNXEIzSnMWJyoQtWxgsHh622AieXN-YDXDbVkvPb99Rw8o4IYaqI10vig_SfHEO_oOcs8GLxg6pmI6hL82RYbliUy4_o7CAG1knNSIkhgSxgS0YRhc.kQzzAtITqCUj-JEmsOiEkubVVILJ0yx8TNuHVLfCzA8&dib_tag=se&keywords=Criptografia+e+seguran%C3%A7a+de+redes+%28William+Stallings%29&qid=1715087575&s=books&sprefix=criptografia+e+seguran%C3%A7a+de+redes+william+stallings+%2Cstripbooks%2C198&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74
+
+Fundamentos de Segurança da informação (Jule HintzBergen) https://www.amazon.com.br/Fundamentos-Seguran%C3%A7a-Informa%C3%A7%C3%A3o-27001-27002/dp/8574528609/ref=sr_1_1?dib=eyJ2IjoiMSJ9.u-AEXLtzZYMPt9PLge7XDQ.toxrkNpb_rg2V-yRWuWqXKO53NnQ4nu9LlokCkNh5vU&dib_tag=se&qid=1715087652&refinements=p_27%3AJule+Hintzbergen%2Cp_n_feature_nine_browse-bin%3A9754444011&rnid=8529757011&s=books&sr=1-1&text=Jule+Hintzbergen
+
+Cibersegurança para leigas (Joseph Steinberg) https://www.amazon.com.br/Ciberseguran%C3%A7a-Para-Leigos-Primeiros-Sucesso/dp/6555203536/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=25UNJBPKZD9N9&dib=eyJ2IjoiMSJ9.6b1jS0GaGOcsDP0kkhgbQiY5IpVbZkqULwed7EpCDhWcDoeiwk1njXXpxS-9sX4cuB4fu_6DBOMgArqZZgOmnJYA69UWrBIMX9N9TEpESIk.gnCQHNKMSVDh92CoM8nh-ZBeoRgwDXRsd431eeswEZA&dib_tag=se&keywords=ciberseguran%C3%A7a+para+leigos+%28joseph+steinberg%29&qid=1715087667&s=books&sprefix=ciberseguran%C3%A7a+para+leigas+joseph+steinberg+%2Cstripbooks%2C183&sr=1-1
 
 Sites de ctf
-CryptoHack
-Hack The Box
-TryHackMe
+CryptoHack https://cryptohack.org/
+Hack The Box  https://www.hackthebox.com/
+TryHackMe  https://tryhackme.com/
+

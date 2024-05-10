@@ -1,21 +1,31 @@
 *{
     margin: 0;
-    padding: 0;
-    font-family: sans-serif
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #9b2138;
 }
 
 .corpo{
     margin: auto;
-    width: 70%;
+    width: 40%;
     height: 100%;
-    background-color: #a69f957e ;
+    background-color: #730E29;
+    box-shadow: 5px 3px 10px #3f0313;
+}
+.topicos{
+    align-items: center;
+    position: relative;
 }
 
 header{
     width: 100%;
-    background-color: #606B73;
+    background-color: #011C40;
     text-align: center;
     font-family: sans-serif;
+    
 }
 
 #titulo{
@@ -38,7 +48,7 @@ h2{
 }
 
 .as{
-    background-color: #9CA5B1;
+    background-color: #011C40;
     width: auto;
     border-radius: 5px;
 }
@@ -62,6 +72,7 @@ h2{
 }
 .titulos{
     padding-bottom: 18px;
+    padding-top: 18px;
 }
 .curses{
     padding-top: 18px;
@@ -71,4 +82,11 @@ ul{
 }
 ol{
     padding-left: 18px;
+}
+li{
+    line-height: 23px;
+}
+
+.lislib{
+   margin-bottom: 10px; 
 }
