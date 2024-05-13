@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0px;
     font-family: sans-serif;
-
 }
 
 body{
@@ -68,6 +67,7 @@ h2{
 h3{
     padding: 10px 0px 10px 0px;
 }
+
 .as{
     background-color: #011C40;
     width: auto;
