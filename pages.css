@@ -91,7 +91,8 @@ ol{
 }
 li{
     line-height: 25px;
-    padding-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin-left: 15px;
 }
 
@@ -127,4 +128,21 @@ h3{
     color: white;
     font-size: 20px;
 
+}
+
+#fot{
+    color: white;
+    background-color: #011C40;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 2px;
+}
+
+.git{
+    text-decoration: none;
+}
+
+.git:hover{
+    color: #9ca5b1ab;
 }
