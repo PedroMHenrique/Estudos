@@ -3,6 +3,14 @@
     padding: 0px;
     font-family: sans-serif;
 }
+@font-face {
+    font-family: "non";
+    src: url(Fonts/hackers.ttf);
+}
+@font-face {
+    font-family: "nin";
+    src: url(Fonts/Mad\ Hacker.ttf);
+}
 
 body{
     background-color: #9b2138;
@@ -23,6 +31,28 @@ body{
     position: relative;
 }
 
+.titulos{
+    text-align: center;
+    font-family: "nin";
+    font-size: 50px;
+     margin: 10px 0px 10px 0px;
+}
+
+@media (max-width: 996px) {
+    .titulos{
+        font-size: 30px;
+    }
+}
+@media (max-width: 743px) {
+    .titulos{
+        font-size: 25px;
+    }
+}
+@media (max-width: 620px) {
+    .titulos{
+        font-size: 20px;
+    }
+}
 header{
     width: 100%;
     background-color: #011C40;
@@ -51,6 +81,8 @@ main a:hover{
     padding: 10px;
     width: 40%;
     margin: auto;
+    font-family: "non";
+
 }
 
 a{
@@ -65,14 +97,30 @@ h2{
     font-size: 30px;
     background-color: #42081817;
 }
+
 h3{
     padding: 10px 0px 10px 0px;
+    
+}
+@media (max-width: 620px) {
+    h3{
+        font-size: 15px;
+    }
 }
 
 .as{
     background-color: #011C40;
-    width: auto;
     border-radius: 5px;
+}
+@media (max-width: 600px) {
+    .as{
+        font-size: 18px;
+    }
+}
+@media (max-width: 559px) {
+    .as{
+        font-size: 15px;
+    }
 }
 
 .as:hover{
@@ -100,11 +148,6 @@ h3{
     }
 }
 
-
-
-.titulos{
-    margin: 10px 0px 10px 0px;
-}
 .curses{
     padding-top: 18px;
 }
@@ -116,6 +159,12 @@ ol{
 }
 li{
     line-height: 25px;
+}
+
+@media (max-width: 620px) {
+    main a{
+        font-size: 15px;
+    }
 }
 
 

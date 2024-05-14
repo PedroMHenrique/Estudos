@@ -69,7 +69,6 @@ main a:hover{
     text-align: center;
 }
 .curses{
-    padding-top: 18px;
     margin-left: 15px;
 }
 
@@ -91,7 +90,7 @@ ol{
 }
 li{
     line-height: 25px;
-    padding-top: 5px;
+    padding-top: 10px;
     padding-bottom: 5px;
     margin-left: 15px;
 }
@@ -106,6 +105,7 @@ h3{
     text-indent: 15px;
     text-align: justify;
     margin-right: 30px;
+    padding: 15px 0px 15px 0px;
 }
 
 .pes:hover{
@@ -145,4 +145,8 @@ h3{
 
 .git:hover{
     color: #9ca5b1ab;
+}
+
+.peulti{
+    padding-bottom: 1px;
 }
